@@ -1,9 +1,7 @@
-/**
- *Submitted for verification at BscScan.com on 2021-04-29
-*/
-
-// File: @openzeppelin/contracts/utils/Context.sol
-
+// This is a smartcontract We will try and fix
+// The amount of tokens locked due to a poorly writted RELEASE FUNCTION
+// BY A previous developer at AlturaNFT has lock millions
+// of dollars in a broken vesting contract
 // SPDX-License-Identifier: MIT
 
 pragma solidity >=0.6.0 <0.8.0;
